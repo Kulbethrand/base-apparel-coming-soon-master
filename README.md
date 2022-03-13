@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Kulbethrand/base-apparel-coming-soon-master
 - Live Site URL: https://base-apparel-coming-soon-master-c9csu1i8j-kulbethrand.vercel.app/
 ## My process
 
